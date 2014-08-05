@@ -1,0 +1,17 @@
+name: The Technical Writing Monkey
+author: Carlos
+markdown: kramdown
+safe: true
+lsi: true
+baseurl: ""
+
+
+kramdown:
+ auto_ids: false
+ footnote_nr: 1
+ entity_output: as_char
+ toc_levels: 1..6
+ smart_quotes: lsquo,rsquo,ldquo,rdquo
+ use_coderay: true
+ parse_span_html: true
+ parse_block_html: true

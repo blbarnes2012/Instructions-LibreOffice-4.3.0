@@ -1,0 +1,24 @@
+- topic: The Technical Writing Monkey
+  filename: c-intro.html
+  child: false
+  publish: true
+
+- topic: How to feed a monkey
+  filename: t-feeding.html
+  child: false
+  publish: true
+
+- topic: How to give iced tea to a monkey
+  filename: t-givingtea.html
+  child: true
+  publish: true
+
+- topic: How to put a monkey inside a box
+  filename: t-boxing.html
+  child: false
+  publish: true
+
+- topic: Nutritional recommendations for monkeys
+  filename: r-nutrition.html
+  child: false
+  publish: true
