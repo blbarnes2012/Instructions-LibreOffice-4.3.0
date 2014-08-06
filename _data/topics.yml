@@ -23,12 +23,12 @@
   child: true
   publish: true
 
- - topic: How to create a presentation
+- topic: How to create a presentation
   filename: t-presentation.html
   child: true
   publish: true
   
- - topic: Recommended Keyboard Shortcuts for LibreOffice
+- topic: Recommended Keyboard Shortcuts for LibreOffice
   filename: r-shortcuts.html
   child: false
   publish: true
